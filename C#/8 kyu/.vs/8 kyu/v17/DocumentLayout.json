@@ -3,8 +3,316 @@
   "WorkspaceRootPath": "C:\\Users\\china\\codewars\\C#\\8 kyu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Is it a number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Is it a number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Did she say hallo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Did she say hallo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\How old will I be in 2099.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:How old will I be in 2099.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Find the Remainder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Find the Remainder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Cat years, Dog years.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cat years, Dog years.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\8kyu interpreters HQ9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8kyu interpreters HQ9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Sum of Multiples.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sum of Multiples.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\String Templates - Bug Fixing #5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:String Templates - Bug Fixing #5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\OOP Object Oriented Piracy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OOP Object Oriented Piracy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Sum of differences in array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sum of differences in array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Enumerable Magic - Does My List Include This.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Enumerable Magic - Does My List Include This.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Remove n exclamation marks in the sentence from left to right.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Remove n exclamation marks in the sentence from left to right.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Welcome to the City.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Welcome to the City.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Leonardo Dicaprio and Oscars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Leonardo Dicaprio and Oscars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Logical calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Logical calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\A Strange Trip to the Market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A Strange Trip to the Market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Sleigh Authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sleigh Authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Tip Calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tip Calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Enumerable Magic #1 - True for All.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Enumerable Magic #1 - True for All.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\L1 Bartender, drinks!.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:L1 Bartender, drinks!.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Surface Area and Volume of a Box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Surface Area and Volume of a Box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\101 Dalmatians - squash the bugs, not the dogs!.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:101 Dalmatians - squash the bugs, not the dogs!.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Is this my tail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Is this my tail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Finish Guess the Number Game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Finish Guess the Number Game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Miles per gallon to kilometers per liter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Miles per gallon to kilometers per liter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Pirates!! Are the Cannons ready!.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pirates!! Are the Cannons ready!.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Get the mean of an array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Get the mean of an array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Count the Monkeys!.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Count the Monkeys!.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Pillars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pillars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Multiply the number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Multiply the number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Fundamentals Return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fundamentals Return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Well of Ideas - Easy Version.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Well of Ideas - Easy Version.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Draw stairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Draw stairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Merge two sorted arrays into one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Merge two sorted arrays into one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Find the Difference in Age between Oldest and Youngest Family Members.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Find the Difference in Age between Oldest and Youngest Family Members.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Points of Reflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Points of Reflection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Chuck Norris VII - True or False(Beginner).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Chuck Norris VII - True or False(Beginner).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Classic Hello World.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Classic Hello World.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Short Long Short.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Short Long Short.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Collinearity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Collinearity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Grasshopper - Terminal Game #1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Grasshopper - Terminal Game #1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\The \u0027if\u0027 function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:The \u0027if\u0027 function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Wilson primes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Wilson primes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Grader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Grader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Grasshopper - Terminal game combat function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Grasshopper - Terminal game combat function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\validate code with simple regex.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:validate code with simple regex.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Printing Array elements with Comma delimiters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Printing Array elements with Comma delimiters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Find Nearest square number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Find Nearest square number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\PriceofMangoes.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PriceofMangoes.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\ArrayPlusArray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ArrayPlusArray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Find numbers which are divisible by given number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Find numbers which are divisible by given number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Grasshopper - Combine strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Grasshopper - Combine strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Square(n) Sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Square(n) Sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Geometry BasicsCircle Area in 2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Geometry BasicsCircle Area in 2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Total amount of points.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Total amount of points.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Do I get a bonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Do I get a bonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Contamination1-String.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contamination1-String.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Is there a vowel in there.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Is there a vowel in there.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Geometry Basics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Geometry Basics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Quadrants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quadrants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Exclamation marks series #2.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exclamation marks series #2.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\SwitchItUp.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SwitchItUp.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\DuckDuckGoose.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DuckDuckGoose.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Formatting decimal places #0.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Formatting decimal places #0.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\FilterOutTheGeese.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilterOutTheGeese.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Refactor Variable Names to Variable Keywords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Refactor Variable Names to Variable Keywords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\DrinkAbout.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DrinkAbout.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Calculate average.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Calculate average.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\My head is at the wrong end.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:My head is at the wrong end.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\ConvertToBinary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConvertToBinary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\tasks.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\ReturnTheDay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReturnTheDay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\KeepUpTheHook.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KeepUpTheHook.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\SuperDuperEasy.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperDuperEasy.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Multiplication table for number.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Multiplication table for number.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\Name Shuffler.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Name Shuffler.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\china\\codewars\\C#\\8 kyu\\ExclusiveLogicalOperator.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExclusiveLogicalOperator.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,6 +343,1007 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Is it a number.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Is it a number.cs",
+              "RelativeDocumentMoniker": "Is it a number.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Is it a number.cs",
+              "RelativeToolTip": "Is it a number.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:50:29.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Did she say hallo.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Did she say hallo.cs",
+              "RelativeDocumentMoniker": "Did she say hallo.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Did she say hallo.cs",
+              "RelativeToolTip": "Did she say hallo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:50:16.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "How old will I be in 2099.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\How old will I be in 2099.cs",
+              "RelativeDocumentMoniker": "How old will I be in 2099.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\How old will I be in 2099.cs",
+              "RelativeToolTip": "How old will I be in 2099.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:49:57.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Find the Remainder.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Find the Remainder.cs",
+              "RelativeDocumentMoniker": "Find the Remainder.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Find the Remainder.cs",
+              "RelativeToolTip": "Find the Remainder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:49:42.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cat years, Dog years.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Cat years, Dog years.cs",
+              "RelativeDocumentMoniker": "Cat years, Dog years.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Cat years, Dog years.cs",
+              "RelativeToolTip": "Cat years, Dog years.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:49:29.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "8kyu interpreters HQ9.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\8kyu interpreters HQ9.cs",
+              "RelativeDocumentMoniker": "8kyu interpreters HQ9.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\8kyu interpreters HQ9.cs",
+              "RelativeToolTip": "8kyu interpreters HQ9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:49:12.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sum of Multiples.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Sum of Multiples.cs",
+              "RelativeDocumentMoniker": "Sum of Multiples.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Sum of Multiples.cs",
+              "RelativeToolTip": "Sum of Multiples.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:48:39.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "String Templates - Bug Fixing #5.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\String Templates - Bug Fixing #5.cs",
+              "RelativeDocumentMoniker": "String Templates - Bug Fixing #5.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\String Templates - Bug Fixing #5.cs",
+              "RelativeToolTip": "String Templates - Bug Fixing #5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:48:24.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OOP Object Oriented Piracy.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\OOP Object Oriented Piracy.cs",
+              "RelativeDocumentMoniker": "OOP Object Oriented Piracy.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\OOP Object Oriented Piracy.cs",
+              "RelativeToolTip": "OOP Object Oriented Piracy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:48:07.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sum of differences in array.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Sum of differences in array.cs",
+              "RelativeDocumentMoniker": "Sum of differences in array.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Sum of differences in array.cs",
+              "RelativeToolTip": "Sum of differences in array.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:47:45.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Enumerable Magic - Does My List Include This.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Enumerable Magic - Does My List Include This.cs",
+              "RelativeDocumentMoniker": "Enumerable Magic - Does My List Include This.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Enumerable Magic - Does My List Include This.cs",
+              "RelativeToolTip": "Enumerable Magic - Does My List Include This.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:47:27.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Remove n exclamation marks in the sentence from left to right.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Remove n exclamation marks in the sentence from left to right.cs",
+              "RelativeDocumentMoniker": "Remove n exclamation marks in the sentence from left to right.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Remove n exclamation marks in the sentence from left to right.cs",
+              "RelativeToolTip": "Remove n exclamation marks in the sentence from left to right.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:47:08.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Welcome to the City.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Welcome to the City.cs",
+              "RelativeDocumentMoniker": "Welcome to the City.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Welcome to the City.cs",
+              "RelativeToolTip": "Welcome to the City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:46:50.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Leonardo Dicaprio and Oscars.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Leonardo Dicaprio and Oscars.cs",
+              "RelativeDocumentMoniker": "Leonardo Dicaprio and Oscars.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Leonardo Dicaprio and Oscars.cs",
+              "RelativeToolTip": "Leonardo Dicaprio and Oscars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:46:36.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Logical calculator.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Logical calculator.cs",
+              "RelativeDocumentMoniker": "Logical calculator.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Logical calculator.cs",
+              "RelativeToolTip": "Logical calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:46:18.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "A Strange Trip to the Market.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\A Strange Trip to the Market.cs",
+              "RelativeDocumentMoniker": "A Strange Trip to the Market.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\A Strange Trip to the Market.cs",
+              "RelativeToolTip": "A Strange Trip to the Market.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:46:02.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Sleigh Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Sleigh Authentication.cs",
+              "RelativeDocumentMoniker": "Sleigh Authentication.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Sleigh Authentication.cs",
+              "RelativeToolTip": "Sleigh Authentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:45:47.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tip Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Tip Calculator.cs",
+              "RelativeDocumentMoniker": "Tip Calculator.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Tip Calculator.cs",
+              "RelativeToolTip": "Tip Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:45:31.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Enumerable Magic #1 - True for All.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Enumerable Magic #1 - True for All.cs",
+              "RelativeDocumentMoniker": "Enumerable Magic #1 - True for All.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Enumerable Magic #1 - True for All.cs",
+              "RelativeToolTip": "Enumerable Magic #1 - True for All.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:45:15.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "L1 Bartender, drinks!.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\L1 Bartender, drinks!.cs",
+              "RelativeDocumentMoniker": "L1 Bartender, drinks!.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\L1 Bartender, drinks!.cs",
+              "RelativeToolTip": "L1 Bartender, drinks!.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:44:45.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Surface Area and Volume of a Box.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Surface Area and Volume of a Box.cs",
+              "RelativeDocumentMoniker": "Surface Area and Volume of a Box.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Surface Area and Volume of a Box.cs",
+              "RelativeToolTip": "Surface Area and Volume of a Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:44:32.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "101 Dalmatians - squash the bugs, not the dogs!.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\101 Dalmatians - squash the bugs, not the dogs!.cs",
+              "RelativeDocumentMoniker": "101 Dalmatians - squash the bugs, not the dogs!.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\101 Dalmatians - squash the bugs, not the dogs!.cs",
+              "RelativeToolTip": "101 Dalmatians - squash the bugs, not the dogs!.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:44:13.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Is this my tail.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Is this my tail.cs",
+              "RelativeDocumentMoniker": "Is this my tail.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Is this my tail.cs",
+              "RelativeToolTip": "Is this my tail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:43:57.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Finish Guess the Number Game.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Finish Guess the Number Game.cs",
+              "RelativeDocumentMoniker": "Finish Guess the Number Game.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Finish Guess the Number Game.cs",
+              "RelativeToolTip": "Finish Guess the Number Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:43:39.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Miles per gallon to kilometers per liter.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Miles per gallon to kilometers per liter.cs",
+              "RelativeDocumentMoniker": "Miles per gallon to kilometers per liter.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Miles per gallon to kilometers per liter.cs",
+              "RelativeToolTip": "Miles per gallon to kilometers per liter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:43:25.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Pirates!! Are the Cannons ready!.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Pirates!! Are the Cannons ready!.cs",
+              "RelativeDocumentMoniker": "Pirates!! Are the Cannons ready!.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Pirates!! Are the Cannons ready!.cs",
+              "RelativeToolTip": "Pirates!! Are the Cannons ready!.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:43:10.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Get the mean of an array.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Get the mean of an array.cs",
+              "RelativeDocumentMoniker": "Get the mean of an array.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Get the mean of an array.cs",
+              "RelativeToolTip": "Get the mean of an array.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:42:50.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Count the Monkeys!.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Count the Monkeys!.cs",
+              "RelativeDocumentMoniker": "Count the Monkeys!.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Count the Monkeys!.cs",
+              "RelativeToolTip": "Count the Monkeys!.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:42:28.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Pillars.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Pillars.cs",
+              "RelativeDocumentMoniker": "Pillars.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Pillars.cs",
+              "RelativeToolTip": "Pillars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:42:14.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Multiply the number.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Multiply the number.cs",
+              "RelativeDocumentMoniker": "Multiply the number.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Multiply the number.cs",
+              "RelativeToolTip": "Multiply the number.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:42:05.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Fundamentals Return.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Fundamentals Return.cs",
+              "RelativeDocumentMoniker": "Fundamentals Return.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Fundamentals Return.cs",
+              "RelativeToolTip": "Fundamentals Return.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:41:49.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Well of Ideas - Easy Version.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Well of Ideas - Easy Version.cs",
+              "RelativeDocumentMoniker": "Well of Ideas - Easy Version.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Well of Ideas - Easy Version.cs",
+              "RelativeToolTip": "Well of Ideas - Easy Version.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:41:27.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Draw stairs.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Draw stairs.cs",
+              "RelativeDocumentMoniker": "Draw stairs.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Draw stairs.cs",
+              "RelativeToolTip": "Draw stairs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:40:46.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Merge two sorted arrays into one.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Merge two sorted arrays into one.cs",
+              "RelativeDocumentMoniker": "Merge two sorted arrays into one.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Merge two sorted arrays into one.cs",
+              "RelativeToolTip": "Merge two sorted arrays into one.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:40:30.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Find the Difference in Age between Oldest and Youngest Family Members.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Find the Difference in Age between Oldest and Youngest Family Members.cs",
+              "RelativeDocumentMoniker": "Find the Difference in Age between Oldest and Youngest Family Members.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Find the Difference in Age between Oldest and Youngest Family Members.cs",
+              "RelativeToolTip": "Find the Difference in Age between Oldest and Youngest Family Members.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:39:56.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Points of Reflection.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Points of Reflection.cs",
+              "RelativeDocumentMoniker": "Points of Reflection.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Points of Reflection.cs",
+              "RelativeToolTip": "Points of Reflection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:39:47.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Chuck Norris VII - True or False(Beginner).cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Chuck Norris VII - True or False(Beginner).cs",
+              "RelativeDocumentMoniker": "Chuck Norris VII - True or False(Beginner).cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Chuck Norris VII - True or False(Beginner).cs",
+              "RelativeToolTip": "Chuck Norris VII - True or False(Beginner).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:39:31.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Classic Hello World.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Classic Hello World.cs",
+              "RelativeDocumentMoniker": "Classic Hello World.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Classic Hello World.cs",
+              "RelativeToolTip": "Classic Hello World.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:39:10.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Short Long Short.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Short Long Short.cs",
+              "RelativeDocumentMoniker": "Short Long Short.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Short Long Short.cs",
+              "RelativeToolTip": "Short Long Short.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:38:54.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Collinearity.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Collinearity.cs",
+              "RelativeDocumentMoniker": "Collinearity.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Collinearity.cs",
+              "RelativeToolTip": "Collinearity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:38:40.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Grasshopper - Terminal Game #1.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Grasshopper - Terminal Game #1.cs",
+              "RelativeDocumentMoniker": "Grasshopper - Terminal Game #1.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Grasshopper - Terminal Game #1.cs",
+              "RelativeToolTip": "Grasshopper - Terminal Game #1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:38:24.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "The \u0027if\u0027 function.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\The \u0027if\u0027 function.cs",
+              "RelativeDocumentMoniker": "The \u0027if\u0027 function.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\The \u0027if\u0027 function.cs",
+              "RelativeToolTip": "The \u0027if\u0027 function.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:37:56.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Wilson primes.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Wilson primes.cs",
+              "RelativeDocumentMoniker": "Wilson primes.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Wilson primes.cs",
+              "RelativeToolTip": "Wilson primes.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:37:42.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string.cs",
+              "RelativeDocumentMoniker": "Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string.cs",
+              "RelativeToolTip": "Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:36:54.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Grader.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Grader.cs",
+              "RelativeDocumentMoniker": "Grader.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Grader.cs",
+              "RelativeToolTip": "Grader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:36:39.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Grasshopper - Terminal game combat function.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Grasshopper - Terminal game combat function.cs",
+              "RelativeDocumentMoniker": "Grasshopper - Terminal game combat function.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Grasshopper - Terminal game combat function.cs",
+              "RelativeToolTip": "Grasshopper - Terminal game combat function.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:36:27.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "validate code with simple regex.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\validate code with simple regex.cs",
+              "RelativeDocumentMoniker": "validate code with simple regex.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\validate code with simple regex.cs",
+              "RelativeToolTip": "validate code with simple regex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:36:02.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Printing Array elements with Comma delimiters.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Printing Array elements with Comma delimiters.cs",
+              "RelativeDocumentMoniker": "Printing Array elements with Comma delimiters.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Printing Array elements with Comma delimiters.cs",
+              "RelativeToolTip": "Printing Array elements with Comma delimiters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:35:49.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Find Nearest square number.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Find Nearest square number.cs",
+              "RelativeDocumentMoniker": "Find Nearest square number.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Find Nearest square number.cs",
+              "RelativeToolTip": "Find Nearest square number.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:35:25.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PriceofMangoes.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\PriceofMangoes.cs",
+              "RelativeDocumentMoniker": "PriceofMangoes.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\PriceofMangoes.cs",
+              "RelativeToolTip": "PriceofMangoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:35:01.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ArrayPlusArray.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\ArrayPlusArray.cs",
+              "RelativeDocumentMoniker": "ArrayPlusArray.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\ArrayPlusArray.cs",
+              "RelativeToolTip": "ArrayPlusArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:34:51.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Find numbers which are divisible by given number.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Find numbers which are divisible by given number.cs",
+              "RelativeDocumentMoniker": "Find numbers which are divisible by given number.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Find numbers which are divisible by given number.cs",
+              "RelativeToolTip": "Find numbers which are divisible by given number.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:34:34.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Grasshopper - Combine strings.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Grasshopper - Combine strings.cs",
+              "RelativeDocumentMoniker": "Grasshopper - Combine strings.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Grasshopper - Combine strings.cs",
+              "RelativeToolTip": "Grasshopper - Combine strings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:34:17.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Square(n) Sum.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Square(n) Sum.cs",
+              "RelativeDocumentMoniker": "Square(n) Sum.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Square(n) Sum.cs",
+              "RelativeToolTip": "Square(n) Sum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:34:04.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Geometry BasicsCircle Area in 2D.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Geometry BasicsCircle Area in 2D.cs",
+              "RelativeDocumentMoniker": "Geometry BasicsCircle Area in 2D.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Geometry BasicsCircle Area in 2D.cs",
+              "RelativeToolTip": "Geometry BasicsCircle Area in 2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:33:50.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Total amount of points.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Total amount of points.cs",
+              "RelativeDocumentMoniker": "Total amount of points.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Total amount of points.cs",
+              "RelativeToolTip": "Total amount of points.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:33:27.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Do I get a bonus.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Do I get a bonus.cs",
+              "RelativeDocumentMoniker": "Do I get a bonus.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Do I get a bonus.cs",
+              "RelativeToolTip": "Do I get a bonus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:33:07.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Contamination1-String.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Contamination1-String.cs",
+              "RelativeDocumentMoniker": "Contamination1-String.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Contamination1-String.cs",
+              "RelativeToolTip": "Contamination1-String.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:32:39.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Is there a vowel in there.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Is there a vowel in there.cs",
+              "RelativeDocumentMoniker": "Is there a vowel in there.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Is there a vowel in there.cs",
+              "RelativeToolTip": "Is there a vowel in there.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:31:56.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Geometry Basics.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Geometry Basics.cs",
+              "RelativeDocumentMoniker": "Geometry Basics.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Geometry Basics.cs",
+              "RelativeToolTip": "Geometry Basics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:31:40.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Quadrants.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Quadrants.cs",
+              "RelativeDocumentMoniker": "Quadrants.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Quadrants.cs",
+              "RelativeToolTip": "Quadrants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:31:15.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Exclamation marks series #2.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Exclamation marks series #2.cs",
+              "RelativeDocumentMoniker": "Exclamation marks series #2.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Exclamation marks series #2.cs",
+              "RelativeToolTip": "Exclamation marks series #2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:30:28.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SwitchItUp.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\SwitchItUp.cs",
+              "RelativeDocumentMoniker": "SwitchItUp.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\SwitchItUp.cs",
+              "RelativeToolTip": "SwitchItUp.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:29:53.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DuckDuckGoose.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\DuckDuckGoose.cs",
+              "RelativeDocumentMoniker": "DuckDuckGoose.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\DuckDuckGoose.cs",
+              "RelativeToolTip": "DuckDuckGoose.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:29:26.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Formatting decimal places #0.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Formatting decimal places #0.cs",
+              "RelativeDocumentMoniker": "Formatting decimal places #0.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Formatting decimal places #0.cs",
+              "RelativeToolTip": "Formatting decimal places #0.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:28:46.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FilterOutTheGeese.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\FilterOutTheGeese.cs",
+              "RelativeDocumentMoniker": "FilterOutTheGeese.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\FilterOutTheGeese.cs",
+              "RelativeToolTip": "FilterOutTheGeese.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:28:19.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Refactor Variable Names to Variable Keywords.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Refactor Variable Names to Variable Keywords.cs",
+              "RelativeDocumentMoniker": "Refactor Variable Names to Variable Keywords.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Refactor Variable Names to Variable Keywords.cs",
+              "RelativeToolTip": "Refactor Variable Names to Variable Keywords.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:27:54.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "DrinkAbout.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\DrinkAbout.cs",
+              "RelativeDocumentMoniker": "DrinkAbout.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\DrinkAbout.cs",
+              "RelativeToolTip": "DrinkAbout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:27:27.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Calculate average.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Calculate average.cs",
+              "RelativeDocumentMoniker": "Calculate average.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Calculate average.cs",
+              "RelativeToolTip": "Calculate average.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:26:58.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "My head is at the wrong end.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\My head is at the wrong end.cs",
+              "RelativeDocumentMoniker": "My head is at the wrong end.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\My head is at the wrong end.cs",
+              "RelativeToolTip": "My head is at the wrong end.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:25:42.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ConvertToBinary.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\ConvertToBinary.cs",
+              "RelativeDocumentMoniker": "ConvertToBinary.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\ConvertToBinary.cs",
+              "RelativeToolTip": "ConvertToBinary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:25:25.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ReturnTheDay.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\ReturnTheDay.cs",
+              "RelativeDocumentMoniker": "ReturnTheDay.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\ReturnTheDay.cs",
+              "RelativeToolTip": "ReturnTheDay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:25:08.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "KeepUpTheHook.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\KeepUpTheHook.cs",
+              "RelativeDocumentMoniker": "KeepUpTheHook.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\KeepUpTheHook.cs",
+              "RelativeToolTip": "KeepUpTheHook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:24:31.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "tasks.vs.json",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\.vs\\tasks.vs.json",
+              "RelativeDocumentMoniker": ".vs\\tasks.vs.json",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\.vs\\tasks.vs.json",
+              "RelativeToolTip": ".vs\\tasks.vs.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-17T14:24:26.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "SuperDuperEasy.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\SuperDuperEasy.cs",
+              "RelativeDocumentMoniker": "SuperDuperEasy.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\SuperDuperEasy.cs",
+              "RelativeToolTip": "SuperDuperEasy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:23:55.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Multiplication table for number.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Multiplication table for number.cs",
+              "RelativeDocumentMoniker": "Multiplication table for number.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Multiplication table for number.cs",
+              "RelativeToolTip": "Multiplication table for number.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:23:14.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ExclusiveLogicalOperator.cs",
+              "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\ExclusiveLogicalOperator.cs",
+              "RelativeDocumentMoniker": "ExclusiveLogicalOperator.cs",
+              "ToolTip": "C:\\Users\\china\\codewars\\C#\\8 kyu\\ExclusiveLogicalOperator.cs",
+              "RelativeToolTip": "ExclusiveLogicalOperator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:22:22.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
               "Title": "Name Shuffler.cs",
               "DocumentMoniker": "C:\\Users\\china\\codewars\\C#\\8 kyu\\Name Shuffler.cs",
               "RelativeDocumentMoniker": "Name Shuffler.cs",
