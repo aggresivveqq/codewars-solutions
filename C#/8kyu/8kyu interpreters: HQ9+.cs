@@ -1,5 +1,6 @@
 using System;
 
+
 public class HQ9
 {
     public static string Interpret(string code)
