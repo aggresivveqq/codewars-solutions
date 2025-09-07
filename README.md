@@ -41,6 +41,6 @@ File names usually reflect kata titles or a short task description.
 
 1. Клонируйте репозиторий / Clone the repository:
    ```bash
-   git clone https://github.com/username/codewars-solutions.git
+   git clone https://github.com/aggresivveqq/codewars-solutions.git
   
 
